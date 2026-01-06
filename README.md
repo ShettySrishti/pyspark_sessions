@@ -1,4 +1,4 @@
-# 📘 Databricks PySpark Notebooks
+# Databricks PySpark Notebooks
 
 This repository contains all my **PySpark and Data Engineering notebooks** exported from Databricks, organized into folders based on topics and learning sessions.
 
@@ -6,7 +6,7 @@ The notebooks are exported as **.ipynb** to preserve the Databricks-style cell s
 
 ---
 
-## 🚀 What's Inside
+## What's Inside
 
 ### ✔ PySpark Basics  
 - DataFrames  
@@ -22,7 +22,7 @@ The notebooks are exported as **.ipynb** to preserve the Databricks-style cell s
 - UDFs  
 - Optimizations  
 
-### ✔ Advanced Data Engineering  
+### ✔ Data Engineering  
 - ETL Pipelines  
 - File Formats (Parquet, JSON, Delta)  
 - Partitioning & Bucketing  
@@ -32,8 +32,4 @@ The notebooks are exported as **.ipynb** to preserve the Databricks-style cell s
 ### ✔ Databricks Notebooks  
 - Python / SQL notebooks  
 - Hands-on practice sessions  
-- Mini data engineering exercises  
-
----
-
-## 📁 Folder Structure
+- Mini data engineering exercises
